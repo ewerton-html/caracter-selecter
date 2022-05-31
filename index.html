@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Escolha seu personagem - MapaDev Week</title>
+    <link rel="stylesheet" href="./src/css/variaveis.css" />
+    <link rel="stylesheet" href="./src/css/reset.css" />
+    <link rel="stylesheet" href="./src/css/fontes.css" />
+    <link rel="stylesheet" href="./src/css/animacoes.css" />
+    <link rel="stylesheet" href="./src/css/estilos.css" />
+    <link rel="stylesheet" href="./src/css/responsivo.css" />
+  </head>
+  <body>
+    <main>
+      <header class="cabecalho">
+        <h1 class="titulo">Character Select</h1>
+      </header>
+      <div class="selecao-de-personagens">
+        <div class="personagem-grande personagem-jogador-1">
+          <div class="espelhado">
+            <img
+              src="./src/imagens/steve.png"
+              alt="Personagem selecionado jogador 1"
+              id="personagem-jogador-1"
+            />
+          </div>
+          <div class="nome">
+            <h2 id="nome-jogador-1">Steve</h2>
+          </div>
+        </div>
+
+        <ul class="lista-de-personagens">
+          <li class="personagem selecionado-jogador-1" id="Steve" data-name="Steve">
+            <span class="tag" id="tag-jogador-1">1P</span>
+            <img src="./src/imagens/steve.jpg" alt="Personagem Steve" />
+          </li>
+
+          <li class="personagem" id="alex" data-name="Alex">
+            <span class="tag">1P</span>
+            <img
+              src="./src/imagens/alex.jpg"
+              alt="Personagem Alex"
+            />
+          </li>
+
+          <li class="personagem selecionado-jogador-2" id="herobrine" data-name="Herobrine">
+            <span class="tag" id="tag-jogador-2">2P</span>
+            <img
+              src="./src/imagens/herobrine.jpg"
+              alt="Personagem Herobrine"
+            />
+          </li>
+
+          <li class="personagem" id="zombir" data-name="Zombir">
+            <span class="tag">1P</span>
+            <img src="./src/imagens/zombir.jpg" alt="Personagem Zombir" />
+          </li>
+
+          <li class="personagem" id="esqueleto" data-name="Esqueleto">
+            <span class="tag">1P</span>
+            <img
+              src="./src/imagens/esqueleto.jpg"
+              alt="Personagem esqueleto"
+            />
+          </li>
+
+          <li class="personagem" id="pillager" data-name="Pillager">
+            <span class="tag tag-selecionada">1P</span>
+            <img src="./src/imagens/pillager.jpg" alt="Personagem pillager" />
+          </li>
+
+          <li class="personagem" id="enderman" data-name="Enderman">
+            <span class="tag">1P</span>
+            <img
+              src="./src/imagens/enderman.jpg"
+              alt="Personagem Enderman"
+            />
+          </li>
+
+          <li class="personagem" id="creeper" data-name="Creeper">
+            <span class="tag">1P</span>
+            <img src="./src/imagens/creeper.jpg" alt="Personagem Creeper" />
+          </li>
+
+          <li class="personagem" id="golem-de-ferro" data-name="Golem-de-ferro">
+            <span class="tag">1P</span>
+            <img src="./src/imagens/golem-de-ferro.jpg" alt="Personagem Golem de ferro" />
+          </li>
+        </ul>
+
+        <div class="personagem-grande personagem-jogador-2">
+          <img
+            src="./src/imagens/herobrine.png"
+            alt="Personagem selecionado jogador 2"
+            id="personagem-jogador-2"
+          />
+          <div class="nome">
+            <h2 id="nome-jogador-2">Herobrine</h2>
+          </div>
+        </div>
+      </div>
+    </main>
+    <script src=./src/js/index.js></script>
+  </body>
+</html>

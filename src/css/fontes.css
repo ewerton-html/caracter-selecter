@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "ssf4";
+  src: url("../fonts/Minecrafter.Reg.ttf");
+}
+
+@font-face {
+  font-family: "command";
+
+  src: url("../fonts/Minecrafter.Alt.ttf");
+}
+
+@font-face {
+  font-family:"minecraft";
+
+  src: url("../fonts/Minecraft.ttf");
+}
