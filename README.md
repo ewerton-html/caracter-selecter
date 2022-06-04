@@ -2,15 +2,6 @@
 
 ![seleção de personagens](https://gcdnb.pbrd.co/images/VS0zCzE0VbiB.png?o=1)
   
-<h2>:bookmark_tabs: Índice</h2>
-* [Título](#caracter-selecter)
-* [Índice](#índice)
-* [Descrição do projeto](#descrição-do-projeto)
-* [Status do projeto](#status-do-projeto)
-* [Acesso ao projeto](#acesso-ao-projeto)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Autores](#autores)
-* [Licença](#licença)
 
 <h2>:memo:  Descrição do projeto</h2>
 Esse projeto foi feito durante a imersão Dev Week, sendo ele a minha vesão com a tematica de minecraft, Ele é um selecionador de personagens como Mortal Kombat ou Street Fighter.
@@ -21,6 +12,7 @@ Esse projeto foi feito durante a imersão Dev Week, sendo ele a minha vesão com
 </div>
   
 <h2>:open_file_folder: Acesso ao projeto</h2>
+
 * [Acessar o código fonte](https://github.com/ewerton-html/caracter-selecter)
 
 * [Download](https://github.com/ewerton-html/caracter-selecter/archive/refs/heads/main.zip)
