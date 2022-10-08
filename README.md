@@ -1,14 +1,16 @@
 <h1 align="center" >Caracter Selecter</h1>
+<div align="center">
 
-![seleção de personagens](https://gcdnb.pbrd.co/images/VS0zCzE0VbiB.png?o=1)
-  
+  <img src=./src/imagens/projeto-image.jpg width=400 height=200>
+  <img src=./src/imagens/projeto-image-mobile.png  width=200>
 
+</div>
 <h2>:memo:  Descrição do projeto</h2>
-Esse projeto foi feito durante a imersão Dev Week, sendo ele a minha vesão com a tematica de minecraft, Ele é um selecionador de personagens como Mortal Kombat ou Street Fighter.
+Esse projeto foi feito durante a imersão Dev Week, sendo ele a minha vesão com a tematica de minecraft, Ele é um selecionador de personagens como, por exemplo, Mortal Kombat ou Street Fighter.
 
 <h2>:heavy_check_mark: Status do projeto</h2>
 <div align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=blue&style=for-the-badge"/>
 </div>
   
 <h2>:open_file_folder: Acesso ao projeto</h2>
@@ -28,10 +30,13 @@ Esse projeto foi feito durante a imersão Dev Week, sendo ele a minha vesão com
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-##  <h2>:busts_in_silhouette:Autores</h2>
-| [<img src="https://avatars.githubusercontent.com/u/79203892?v=4" width=115><br><sub>Ewerton Ribeiro da Silva</sub>](https://github.com/ewerton-html) |
+<h2>:busts_in_silhouette:Autores</h2>
+
+| [<img src="https://avatars.githubusercontent.com/u/79203892?v=4" width=115><br><sub>ewerton-html</sub>](https://github.com/ewerton-html) |
 | :---: |
 
-## <h2>Licença</h2>
-  O projeto é licenciado [MIT](/LICENSE)
+<h2>🧾 Licença</h2>
   
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](./LICENSE) para mais detalhes.
+  
+[⬆ Voltar ao topo](#caracter-selecter)<br>
